@@ -1,1 +1,3 @@
-# Python-for-data-analysis-Panda
+## Panda:
+__1.Series:__ \
+
